@@ -21,11 +21,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "vomitrain",
-		"price": 650,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "foggyrain",
 		"price": 300,
 		"karmatype": "Neutral"
@@ -106,13 +101,13 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "refugeechased",
-		"price": 650,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "animaltame",
 		"price": 150,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "wandererjoins",
+		"price": 50,
 		"karmatype": "Good"
 	},
 	{
@@ -133,11 +128,6 @@
 	{
 		"abr": "orbitaltraderarrival",
 		"price": 350,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "inspiration",
-		"price": 150,
 		"karmatype": "Good"
 	},
 	{
@@ -217,7 +207,7 @@
 	},
 	{
 		"abr": "alphabeavers",
-		"price": 600,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
@@ -296,24 +286,9 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "gambleskill",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "trait",
 		"price": 3500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "removetrait",
-		"price": 5500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "genderswap",
-		"price": 600,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "prisoner",
@@ -326,10 +301,15 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "berescued",
-		"price": 900,
+		"abr": "randominspire",
+		"price": 450,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "hodlbotvote",
+		"price": 600,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 66
+	"total": 62
 }
